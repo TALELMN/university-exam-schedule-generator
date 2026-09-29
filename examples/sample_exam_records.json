@@ -1,0 +1,8 @@
+[
+  {"code":"ECO171","course_name":"Introduction to Microeconomics","date":"2026-10-11","day":"Saturday","start_time":"08:30","end_time":"10:30"},
+  {"code":"ENG111","course_name":"Academic English","date":"2026-10-12","day":"Monday","start_time":"08:30","end_time":"10:30"},
+  {"code":"ECE143","course_name":"Digital Systems","date":"2026-10-13","day":"Tuesday","start_time":"13:30","end_time":"15:30"},
+  {"code":"CS101","course_name":"Introduction to Programming","date":"2026-10-14","day":"Wednesday","start_time":"11:00","end_time":"13:00"},
+  {"code":"PHYS151","course_name":"Classical Mechanics","date":"2026-10-16","day":"Friday","start_time":"13:30","end_time":"15:30"},
+  {"code":"MATH141","course_name":"Calculus I","date":"2026-10-17","day":"Saturday","start_time":"08:30","end_time":"10:30"}
+]

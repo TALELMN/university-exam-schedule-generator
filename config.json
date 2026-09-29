@@ -1,0 +1,17 @@
+{
+  "course_code_pattern": "[A-Z]{2,5}\\s?[0-9]{3,4}",
+  "suspicious_course_code_pattern": "[A-Z]{2,5}\\s?[A-Z0-9IO]{3,4}",
+  "ocr_confidence_threshold": 90,
+  "fuzzy_match_threshold": 88,
+  "ocr_enabled": true,
+  "ocr_language": "eng",
+  "tesseract_path": "",
+  "date_formats": ["%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y", "%B %d, %Y", "%b %d, %Y", "%B %d", "%b %d"],
+  "time_formats": ["%H:%M", "%H.%M", "%I:%M %p", "%I.%M %p"],
+  "exam_year": 2026,
+  "group_numbered_sections": true,
+  "output_directory": "data/output",
+  "generate_excel": true,
+  "generate_pdf": true,
+  "generate_html": true
+}

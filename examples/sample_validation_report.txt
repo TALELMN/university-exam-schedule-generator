@@ -1,0 +1,29 @@
+========================================
+VALIDATION REPORT
+========================================
+
+Files processed: 2
+Levels detected: 1
+Courses extracted: 6
+Unique courses: 6
+Exam records: 6
+Successfully matched: 6
+Missing exam information: 0
+Records needing review: 0
+OCR warnings: 0
+Unassigned exam courses: 0
+Processing errors: 0
+
+----------------------------------------
+MISSING EXAMS
+  None
+
+----------------------------------------
+OCR WARNINGS
+  None
+
+----------------------------------------
+UNASSIGNED EXAM COURSES
+  None
+
+========================================
